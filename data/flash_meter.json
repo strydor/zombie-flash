@@ -1,0 +1,9 @@
+{
+  "maxMeter": 100.0,
+  "baseRechargeRate": 18.0,
+  "dashCost": 25.0,
+  "cooldownSeconds": 1.0,
+  "sprintRechargeMultiplier": 0.35,
+  "knockbackForce": 600.0,
+  "infectionBonus": 0.2
+}
